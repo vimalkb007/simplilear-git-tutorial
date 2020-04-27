@@ -1,1 +1,1 @@
-# simplilear-git-tutorial
+# simplilearn-git-tutorial
